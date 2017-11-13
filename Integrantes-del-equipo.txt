@@ -1,0 +1,8 @@
+Laboratorio de base de datos 
+------------------------------------------
+integrantes del equipo
+------------------------------------------
+Jose Alonso Morales Carrizales 1734909
+Angel Adolfo Pacheco Mazuca 1656991
+Betzaida García Pulido 1837505
+Alberto Missael Granados Vazquez 1646187
